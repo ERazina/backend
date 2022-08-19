@@ -1,27 +1,22 @@
-[
-    {
+{
+    "todos": [
+      {
         "id": 1,
-        "title": "Wake up early",
-        "finished": true
-    },
-    {
+        "title": "To do fake backend",
+        "completed": true
+      },
+      {
         "id": 2,
         "title": "Learn Redux",
-        "finished": false
-    },
-    {
+        "completed": false
+      },
+      {
         "id": 3,
         "title": "Learn Saga",
-        "finished": false
-    },
-    {
-        "id": 4,
-        "title": "Learn Promise",
-        "finished": false
-    },
-    {
-        "id": 5,
-        "title": "Go for a weekend",
-        "finished": true
+        "completed": false
+      }
+    ],
+    "profile": {
+      "name": "Elina Razina"
     }
-]
+  }
